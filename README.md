@@ -1,4 +1,4 @@
-# Automa-o_tarefas_rob-
+# Automacao_tarefas_Python_robo
 
 Sabe aquela lista com 450 produtos para serem relacionados
 
